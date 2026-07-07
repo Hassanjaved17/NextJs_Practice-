@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 export default function RootLayout({
   children,
 }: Readonly<{
-  children: React.ReactNode;
+  children: React.ReactNode;  // "The children prop can contain anything React is able to render."
 }>) {
   return (
     <html
