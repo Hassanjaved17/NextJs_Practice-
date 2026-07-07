@@ -6,6 +6,7 @@ const page   = () => {
 <div>
     <h1>about page</h1>
     <p>This is the about page.</p>
+    <h4>Folders describe the URL. Files describe the behavior.</h4>
     
 </div>
 
