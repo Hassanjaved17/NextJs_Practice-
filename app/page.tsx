@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>  
+    <div className='main backdrop:blur-sm bg-white/30 rounded-lg p-4 shadow-md'>  
       hello next js 
     </div>
   )
